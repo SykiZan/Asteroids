@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\admin\Desktop\VS\Project1\Project1\game.h(21,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\admin\Desktop\VS\Project1\Project1\game.h(28,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\admin\Desktop\VS\Project1\Project1\game.h(29,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\admin\Desktop\VS\Project1\Project1\game.h(41,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\admin\Desktop\VS\Project1\Project1\game.h(109,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\admin\Desktop\VS\Project1\Project1\game.h(109,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\admin\Desktop\VS\Project1\Project1\game.h(336,24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\admin\Desktop\VS\Project1\Project1\game.h(335,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\admin\Desktop\VS\Project1\Project1\game.h(468,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\admin\Desktop\VS\Project1\Project1\game.h(472,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\admin\Desktop\VS\Project1\Project1\game.h(487,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\admin\Desktop\VS\Project1\Project1\game.h(491,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'C:\Users\admin\Desktop\VS\Project1\Release\Project1.exe'
